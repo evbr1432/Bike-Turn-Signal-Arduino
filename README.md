@@ -1,4 +1,5 @@
 # Bike-Turn-Signal-Arduino
+## (In progress project. Waiting on Parts: Arduino NANO, Red LED's, Power Source, Waterproofing)
 ## Simple turn signal for a bike using Arduino, single push button, and two LED's
 ## Created by: Evan Brookens
 ### Used digital pins:
